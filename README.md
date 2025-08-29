@@ -3,3 +3,4 @@
 "My NLP learning journey – from basics to advanced with code, notes & projects."
 
 "Step-by-step implementation of NLP concepts with Python and projects."
+this complete handwritten notes written by me (SHubham).
