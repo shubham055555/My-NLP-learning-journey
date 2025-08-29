@@ -4,3 +4,4 @@
 
 "Step-by-step implementation of NLP concepts with Python and projects."
 this complete handwritten notes written by me (SHubham).
+Special thanks to Krish c Naik Sir 🙌
